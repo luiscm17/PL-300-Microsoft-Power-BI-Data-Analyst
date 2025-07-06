@@ -23,7 +23,6 @@ To complete this exercise, first open a web browser and enter the following URL 
 
 `https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/06-design-report-in-power-bi-desktop/06-design-report.zip`
 
-
 Extract the folder to the **C:\Users\Student\Downloads\06-design-report** folder.
 
 Open the **06-Starter-Sales Analysis.pbix** file.
@@ -194,7 +193,6 @@ In this exercise, you'll design the second report page. When you’ve completed 
      - **Cost**
      - **Profit** (from the **Pricing** folder)
      - **Profit Margin** (from the **Pricing** folder)
-
 
      ![Picture 55](Linked_image_Files/07-design-report-in-power-bi-desktop_image43.png)
 
